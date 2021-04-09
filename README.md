@@ -1,13 +1,17 @@
 # Desktop_Mascot
 Desktop Mascot is an application to make a VRM model reside on your screen.
 Watch the models run around the screen freely and feel comfortable.
+
 画像1
 
-#Environments
+# Environments
+
 Windows10 Home
+
 標準搭載のグラフィックカードで動かすこと自体は可能(多少PCは重くなる)
 
-#Usage
+# Usage
+
 起動後にお手元のVRMファイルをドロップするとそのモデルが表示されます.
 
 - Transparent
@@ -26,6 +30,7 @@ Windows10 Home
 	カメラを正投影から透視投影に切り替え
 
 
-#DEMO
+# DEMO
+
 デモ動画の記載
 
