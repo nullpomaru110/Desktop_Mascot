@@ -10,19 +10,19 @@ Windows10 Home
 #Usage
 起動後にお手元のVRMファイルをドロップするとそのモデルが表示されます.
 
-・Transparent
+- Transparent
 	ウィンドウの透過
-・Topmost
+- Topmost
 	ウィンドウを最前面に配置
-・Maximize
+- Maximize
 	ウィンドウの最大化
-・RandomMove
+- RandomMove
 	15～20秒間隔でランダムに動く
-・UpdateHead
+- UpdateHead
 	モデルの頭がマウスカーソルを追従
-・Shadow
+- Shadow
 	影のオンオフ
-・Perspective Camera
+- Perspective Camera
 	カメラを正投影から透視投影に切り替え
 
 
