@@ -15,7 +15,6 @@ Windows10 Home
 起動後にお手元のVRMファイルをドロップするとそのモデルが表示されます.
 
 - **Transparent**
-
 	ウィンドウの透過
 - **Topmost**
 	
