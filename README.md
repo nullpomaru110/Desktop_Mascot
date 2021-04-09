@@ -1,9 +1,9 @@
 # Desktop_Mascot
 ## 概要
-Desktop Mascot is an application to make a VRM model reside on your screen.
+Desktop Mascot is an application to make a VRM model reside on your screen.  
 Watch the models run around the screen freely and feel comfortable.
 
-Desktop_MascotはVRMモデルを画面に常駐させるアプリケーションです.
+Desktop_MascotはVRMモデルを画面に常駐させるアプリケーションです.  
 自由自在に動くモデルを見て癒されましょう!
 
 画像1
