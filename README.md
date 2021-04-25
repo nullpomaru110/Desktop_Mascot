@@ -37,7 +37,16 @@ Windows10 Home
 	影のオンオフ
 - **Perspective Camera**
 
+	透視投影カメラに切り替え
+
 
 ## DEMO
 
 [![](http://img.youtube.com/vi/SVXGafZQP0A/0.jpg)](http://www.youtube.com/watch?v=SVXGafZQP0A "Desktop Mascot（仮）")
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
