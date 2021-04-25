@@ -5,13 +5,11 @@ Watch the models run around the screen freely and feel comfortable.
 Desktop_MascotはVRMモデルを画面に常駐させるアプリケーションです.
 自由自在に動くモデルを見て癒されましょう!
 
-画像1
+![Image](/Sample/Desktop_mascot.png)
 
 ## Environments
 
 Windows10 Home
-
-Windows10 Home  
 標準搭載のグラフィックカードで動かすこと自体は可能(多少PCは重くなる)
 
 ## Usage
@@ -43,10 +41,3 @@ Windows10 Home
 ## DEMO
 
 [![](http://img.youtube.com/vi/SVXGafZQP0A/0.jpg)](http://www.youtube.com/watch?v=SVXGafZQP0A "Desktop Mascot（仮）")
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
