@@ -38,6 +38,6 @@ Windows10 Home
 	透視投影カメラに切り替え
 
 
-## DEMO
+## DEMO VIDEO
 
 [![](http://img.youtube.com/vi/SVXGafZQP0A/0.jpg)](http://www.youtube.com/watch?v=SVXGafZQP0A "Desktop Mascot（仮）")
