@@ -23,5 +23,5 @@ Windows10 Home
 
 # DEMO
 
-デモ動画の記載
+[![](http://img.youtube.com/vi/SVXGafZQP0A/0.jpg)](http://www.youtube.com/watch?v=SVXGafZQP0A "Desktop Mascot（仮）")
 
