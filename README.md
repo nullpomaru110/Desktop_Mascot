@@ -7,11 +7,6 @@ Desktop_MascotはVRMモデルを画面に常駐させるアプリケーション
 
 <img src="https://github.com/nullpomaru110/Desktop_Mascot/blob/main/Sample/Desktop_Mascot.png" width="640" alt="DEMO IMAGE" title="DEMO IMAGE">
 
-## Environments
-
-Windows10 Home
-標準搭載のグラフィックカードで動かすこと自体は可能(多少PCは重くなる)
-
 ## Usage
 
 起動後にお手元のVRMファイルをドロップするとそのモデルが表示されます.
